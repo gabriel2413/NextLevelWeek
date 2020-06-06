@@ -1,7 +1,6 @@
 <h4 align="center">
 
 <img src="web/src/assets/logo.svg" width="250px" />
-  ♻ <b>Coleta de resíduos orgânicos e inorgânicos para reciclagem</b>  ♻
 </h4>
 
 <p align="center">
